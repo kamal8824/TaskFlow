@@ -3,7 +3,7 @@ import { useCallback, useEffect, useState } from "react";
 import "./App.css";
 document.getElementById("dashboard")?.scrollIntoView({ behavior: "smooth" })
 
-const API_URL = "http://localhost:5000/api/tasks";
+const API_URL = "https://taskflow-yj3e.onrender.com/api/tasks";
 
 const priorityOrder = {
   veryhigh: 4,
