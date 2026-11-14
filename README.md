@@ -70,3 +70,7 @@ GitHub: https://github.com/kamal8824
 ## 🌐 Live Demo
 
 [Visit TaskFlow](https://taskflow-gules-eta.vercel.app/)
+
+## Preview
+
+![TaskFlow Dashboard](Dashboard.png)
